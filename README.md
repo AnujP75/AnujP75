@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anuj</h1>
 <h3 align="center">I'm a dedicated computer science student at UNC Chapel Hill</h3>
 
-- I’m currently learning about **data structures, discrete math, artificial intelligence, and web development**
+- I’m currently learning about **data structures, discrete mathematics, artificial intelligence, and web development**
 - In the past I've worked on a **mobile application for school**
 
 <h3 align="left">Skills</h3>
